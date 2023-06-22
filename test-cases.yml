@@ -4,7 +4,7 @@
   requirement: |
     При успешном оформлении заказа появляется надпись "Заказ успешно оформлен"
   test-data: |
-    Логин = Логин = hexlet Пароль = badpass
+    Логин = hexlet Пароль = badpass
   prerequisites: |
     Открыта начальня страница сайта
     Язык выбран "Russian"
@@ -20,7 +20,7 @@
   requirement: |
     Сайт переводится на требуемый язык
   test-data: |
-    Логин = Логин = hexlet Пароль = badpass
+    Логин = hexlet Пароль = badpass
   prerequisites:
     - Открыта начальная страница
   steps:
