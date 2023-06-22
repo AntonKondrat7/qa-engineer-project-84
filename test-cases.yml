@@ -20,7 +20,7 @@
     Сайт переводится на требуемый язык
   test-data: |
     Логин = hexlet Пароль = badpass
-  prerequisites:
+  prerequisites: |
     Открыта начальная страница
   steps:
     - Нажимаем кнопку "Язык"
